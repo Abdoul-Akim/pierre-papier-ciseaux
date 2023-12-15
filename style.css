@@ -1,0 +1,25 @@
+*{
+    background-color:antiquewhite
+}
+.imgResult, .button{
+    display: flex;
+}
+
+.imgResult img{
+    width: 47vw;
+    margin: 0 1vw;
+}
+
+.button img{
+    width: 28vw;
+}
+
+.textResult{
+    font-size: 6vw;
+}
+.textResult, .imgResult, .button{
+    margin: 6vw 0;
+}
+button{
+    margin: 0 1.5vw;
+}
